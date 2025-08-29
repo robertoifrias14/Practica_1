@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Biografia y Horario </title>
+
 </head>
 <body>
 <h1>Biografia y horario de clases.</h1>
